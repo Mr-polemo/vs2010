@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Expspecial", "..\Expspec.src\Expspecial.vcxproj", "{7E127954-E507-4081-AB91-6FA2FCD1375B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "定制实验", "定制实验", "{FCBF0DAA-B8EB-4AB7-92E6-88D009A1BBA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E127954-E507-4081-AB91-6FA2FCD1375B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7E127954-E507-4081-AB91-6FA2FCD1375B}.Debug|Win32.Build.0 = Debug|Win32
+		{7E127954-E507-4081-AB91-6FA2FCD1375B}.Release|Win32.ActiveCfg = Release|Win32
+		{7E127954-E507-4081-AB91-6FA2FCD1375B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7E127954-E507-4081-AB91-6FA2FCD1375B} = {FCBF0DAA-B8EB-4AB7-92E6-88D009A1BBA1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		QtVersion = 4.8.3
+	EndGlobalSection
+EndGlobal
